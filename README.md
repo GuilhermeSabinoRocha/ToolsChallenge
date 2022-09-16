@@ -2,8 +2,6 @@
 
 Projeto desenvolvido para o Processo Seletivo Tools.
 
-Inicialmente, obrigado!
-
 Utilizei SpringBoot e o banco de dados H2 (em memória - ver /src/main/resources).
 
 Requisitos implementados, inclusive com o uso do padrão de projeto Singleton ("Gang of Four").
